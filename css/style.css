@@ -5,8 +5,16 @@ html {
 
 h2 {
     font-size: larger;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 li {
     font-family: fantasy;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+p {
+    text-align: center;
 }
