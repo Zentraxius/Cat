@@ -1,12 +1,16 @@
 html {
-    text-align: center;
-    background-color: bisque;
+  text-align: center;
+  background-color: bisque;
 }
 
 h2 {
-    font-size: larger;
+  font-size: larger;
 }
 
 li {
-    font-family: fantasy;
+  font-family: fantasy;
+}
+
+.cat {
+  width: 50%;
 }
